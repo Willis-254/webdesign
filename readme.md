@@ -42,6 +42,8 @@ Okay
 
 ![alt texts](image.png)
 ![alt text](image-1.png)
+![Static Badge](https://img.shields.io/badge/Subject-MarkDown-yellow)
+
 
 
 
